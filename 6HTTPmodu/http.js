@@ -10,7 +10,7 @@ http.createServer(function (req, res) {
     if (req.url === '/about') {
         res.end('History is out short here')
     }
-    req.end();
+    res.end();
 
 }).listen(5000);
 
