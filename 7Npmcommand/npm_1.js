@@ -17,7 +17,10 @@
 // npm uninstall lodash
 // npm i bootstrap
 
+// try using .gitignore while uploading the code.
 // all the installed dependancies will store inside node module folder.
+
+// When sharing the code just write npm install to install all the dependancies in your project
 
 // Using lodash
 const _ = require('lodash');
